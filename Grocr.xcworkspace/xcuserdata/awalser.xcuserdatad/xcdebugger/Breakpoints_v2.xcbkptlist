@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Grocr/GroceryListTableViewController.swift"
+            timestampString = "501543297.359314"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "GroceryListTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Grocr.GroceryListTableViewController.usersRef.setter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.FIRDatabaseReference&gt;"
+                  moduleName = "Grocr"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/awalser/Documents/iOS_Projects/Grocr-starter/Grocr/GroceryListTableViewController.swift"
+                  timestampString = "501543417.509095"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Grocr.GroceryListTableViewController.init (style : __C.UITableViewStyle) -&gt; Grocr.GroceryListTableViewController"
+                  moduleName = "Grocr"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/awalser/Documents/iOS_Projects/Grocr-starter/Grocr/GroceryListTableViewController.swift"
+                  timestampString = "501543417.511887"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "332">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Grocr.GroceryListTableViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Grocr.GroceryListTableViewController"
+                  moduleName = "Grocr"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/awalser/Documents/iOS_Projects/Grocr-starter/Grocr/GroceryListTableViewController.swift"
+                  timestampString = "501543417.514416"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "420">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Grocr.GroceryListTableViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Grocr.GroceryListTableViewController&gt;"
+                  moduleName = "Grocr"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/awalser/Documents/iOS_Projects/Grocr-starter/Grocr/GroceryListTableViewController.swift"
+                  timestampString = "501543417.516842"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "332">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
